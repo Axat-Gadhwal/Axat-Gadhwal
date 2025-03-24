@@ -6,9 +6,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=axatgadhwal&label=Profile%20views&color=0e75b6&style=flat" alt="axatgadhwal" /> </p>
 
 
-<img src="https://user-images.githubusercontent.com/6661165/92327052-d99b9e00-f091-11ea-9a24-c7ec86982370.png" height="100">
+<img src="https://camo.githubusercontent.com/3e8683c8b94c82eac14665d110e77b1cfc30b3da97ebec221a77d39c5b001603/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d72796f2d6d6126636f6c756d6e3d382672616e6b3d5353532c53532c532c4141412c41412c412c422c43" height="100">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=axatgadhwal" alt="axatgadhwal" /></a> </p>
+
 
 <p align="left"> <a href="https://twitter.com/axat gadhwal" target="blank"><img src="https://img.shields.io/twitter/follow/axat gadhwal?logo=twitter&style=for-the-badge" alt="axat gadhwal" /></a> </p>
 
@@ -49,8 +49,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/axatgadhwal"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="axatgadhwal" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=axatgadhwal&show_icons=true&locale=en&layout=compact" alt="axatgadhwal" /></p>
+<img src="https://camo.githubusercontent.com/6b1d30a698f8fb54f49ce73c6716c00d47fe0831fcedb6d24198920711d76942/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d72796f2d6d61266c61796f75743d636f6d70616374">
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=axatgadhwal&show_icons=true&locale=en" alt="axatgadhwal" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=axatgadhwal&" alt="axatgadhwal" /></p>
+<img src="https://camo.githubusercontent.com/91979395101fbff04e2ffe7b469ec52cd1c6ea77617b26f10fee55e614b92a44/68747470733a2f2f73747265616b2d73746174732e64656d6f6c61622e636f6d2f3f757365723d4b656e616e4761696e267468656d653d68696768636f6e747261737426686964655f626f726465723d74727565">
