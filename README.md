@@ -1,7 +1,12 @@
 <h1 align="center">Hi 👋, I'm Axat Gadhwal</h1>
 <h3 align="center">A passionate student learning about FPGA, RISC-V and Semiconductor field.</h3>
 
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=axatgadhwal&label=Profile%20views&color=0e75b6&style=flat" alt="axatgadhwal" /> </p>
+
+
+<img src="https://user-images.githubusercontent.com/6661165/92327052-d99b9e00-f091-11ea-9a24-c7ec86982370.png" height="100">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=axatgadhwal" alt="axatgadhwal" /></a> </p>
 
