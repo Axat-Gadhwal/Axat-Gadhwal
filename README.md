@@ -1,3 +1,5 @@
+![Screenshot 2025-04-16 113427](https://github.com/user-attachments/assets/53f70731-c135-43b0-8577-c615ba2ecf41)
+
 <h1 align="center">Hi 👋, I'm Axat Gadhwal</h1>
 <h3 align="center">A passionate student learning about FPGA, RISC-V and Semiconductor field.</h3>
 
@@ -11,6 +13,8 @@
 
 
 <p align="left"> <a href="https://twitter.com/axat gadhwal" target="blank"><img src="https://img.shields.io/twitter/follow/axat gadhwal?logo=twitter&style=for-the-badge" alt="axat gadhwal" /></a> </p>
+
+<p align="center"><img src="https://github.com/user-attachments/assets/3e842140-2949-4697-96c5-52c46bf132ca"></p>
 
 - 🔭 I’m currently working on [VSD Squadron FM Research Internship](https://github.com/Axat-Gadhwal/VSD-Squadron-FM-Research-Internship)
 
